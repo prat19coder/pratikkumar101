@@ -106,4 +106,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikkumar007&"
                 alt="pratikkumar007" width="600px" /></p>
    </div>
+
+   ## 🏆 My Trophies
+<a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dev092&row=1&column=8&theme=radical&margin-w=15" width="100%">
+</a>
  -->
