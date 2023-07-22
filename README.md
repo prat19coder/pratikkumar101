@@ -107,8 +107,5 @@
                 alt="pratikkumar007" width="600px" /></p>
    </div>
 
-   ## 🏆 My Trophies
-<a>
-  <img src="https://github-profile-trophy.vercel.app/?username=pratikkumar101row=1&column=8&theme=radical&margin-w=15" width="100%">
-</a>
+
  -->
