@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **pratik2015.kumar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ:</h3>
 <p align="left">
 <a href="https://twitter.com/avatar_unknown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avatar_unknown" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pratik-kumar-16ba26200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratik-kumar-16ba26200" height="30" width="40" /></a>
